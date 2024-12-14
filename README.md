@@ -23,9 +23,6 @@ LLM evaluation using Advent Of Code puzzles
 | **Day9 Part 2** | Not Passed (3)          | Not Passed          | Not Passed (3)         | Not Passed (4)          | Passed                 | Not Passed         | Not Passed        |
 | **Day10 Part 1**| Not Passed              | Passed              | Not Passed (5)         | Passed                  | Not Passed             | Passed             | Passed            |
 | **Day10 Part 2**| Passed                  | Passed              | Not Passed (5)         | Not Passed              | Passed                 | Passed             | Passed            |
-| **Success Ratio** | 61,1%                   | 61,1%                | 33,3%                   | 44,4%                   | 66,7%                  | 77,8%              | 94,4%             |
-| **Success Ratio first 5 days** | 80,0%                | 90,0%                | 60,0%                   | 70,0%                   | 70,0%                  | 80,0%              | 100,0%            |
-| **Success Ratio last 5 days** | 30,0%                | 20,0%                | 0,0%                    | 10,0%                   | 50,0%                  | 60,0%              | 70,0%             |
 
 (1) The pattern was counted twice
 
@@ -36,3 +33,11 @@ LLM evaluation using Advent Of Code puzzles
 (4) TypeError: 'bool' object is not iterable
 
 (5) variable referenced before assignment
+
+# Summary
+
+|               | Llama 3.3 70B Instruct | Mistral Large 2411 | Qwen 2.5 72B Instruct | QwenCoder 32B Instruct | Gemini 2.0 Flash Exp. | Claude 3.5 Sonnet | QwQ 32B Preview |
+|---------------|------------------------|--------------------|-----------------------|------------------------|-----------------------|-------------------|------------------|
+| **Success Ratio** | 61,1%                   | 61,1%                | 33,3%                   | 44,4%                   | 66,7%                  | 77,8%              | 94,4%             |
+| **Success Ratio first 5 days** | 80,0%                | 90,0%                | 60,0%                   | 70,0%                   | 70,0%                  | 80,0%              | 100,0%            |
+| **Success Ratio last 5 days** | 30,0%                | 20,0%                | 0,0%                    | 10,0%                   | 50,0%                  | 60,0%              | 70,0%             |
