@@ -14,6 +14,8 @@ LLM evaluation using Advent Of Code puzzles
 | **QwQ 32B Preview**        | 94,4%        | 100,0%                    | 70,0%                  |
 
 
+# Detailed results
+
 |               | Llama 3.3 70B Instruct | Mistral Large 2411 | Qwen 2.5 72B Instruct | QwenCoder 32B Instruct | Gemini 2.0 Flash Exp. | Claude 3.5 Sonnet | QwQ 32B Preview |
 |---------------|------------------------|--------------------|-----------------------|------------------------|-----------------------|-------------------|------------------|
 | **Day1 Part 1** | Passed                  | Passed              | Passed                 | Passed                  | Passed                 | Passed             | Passed            |
