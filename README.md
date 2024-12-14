@@ -5,13 +5,13 @@ LLM evaluation using Advent Of Code puzzles
 
 | Model                      | Success Rate | Success Rate First Days | Success Rate Last Days |
 |----------------------------|--------------|--------------------------|------------------------|
-| **Llama 3.3 70B Instruct** | 61,1%        | 80,0%                     | 30,0%                  |
-| **Mistral Large 2411**     | 61,1%        | 90,0%                     | 20,0%                  |
-| **Qwen 2.5 72B Instruct**  | 33,3%        | 60,0%                     | 0,0%                   |
-| **QwenCoder 32B Instruct** | 44,4%        | 70,0%                     | 10,0%                  |
-| **Gemini 2.0 Flash Exp.**  | 66,7%        | 70,0%                     | 50,0%                  |
-| **Claude 3.5 Sonnet**      | 77,8%        | 80,0%                     | 60,0%                  |
-| **QwQ 32B Preview**        | 94,4%        | 100,0%                    | 70,0%                  |
+| **Llama 3.3 70B Instruct** | 55,0%        | 80,0%                     | 30,0%                  |
+| **Mistral Large 2411**     | 55,0%        | 90,0%                     | 20,0%                  |
+| **Qwen 2.5 72B Instruct**  | 30,0%        | 60,0%                     | 0,0%                   |
+| **QwenCoder 32B Instruct** | 40,0%        | 70,0%                     | 10,0%                  |
+| **Gemini 2.0 Flash Exp.**  | 60,0%        | 70,0%                     | 50,0%                  |
+| **Claude 3.5 Sonnet**      | 70,0%        | 80,0%                     | 60,0%                  |
+| **QwQ 32B Preview**        | 85,0%        | 100,0%                    | 70,0%                  |
 
 
 # Detailed results
